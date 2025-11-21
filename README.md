@@ -143,5 +143,3 @@ curl -X POST http://localhost:3000/upload \
 - `src/services/` — LLM client, upload/index/download, and RAG logic
 - `chroma_store/` — local Chroma DB files (vector index files)
 - `requirements.txt` — Python dependencies
-
-If you'd like, I can: add example `.env` with common placeholders, add a small test that starts the app and checks `/index`, or expand the API reference with more request/response examples. Tell me which you'd like next.
