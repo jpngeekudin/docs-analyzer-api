@@ -143,3 +143,6 @@ curl -X POST http://localhost:3000/upload \
 - `src/services/` — LLM client, upload/index/download, and RAG logic
 - `chroma_store/` — local Chroma DB files (vector index files)
 - `requirements.txt` — Python dependencies
+
+## Build Chat History
+[ChatGPT](https://chatgpt.com/share/69243fef-b82c-8013-a024-b2ada8418349)
